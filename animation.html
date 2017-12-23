@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		div{
+			width: 200px;
+			height: 200px;
+			background: red;
+			animation: go 10s infinite linear;
+		}
+
+		@keyframes go{
+			0%{
+				position: absolute;
+				left: 200px;
+				top: 200px;
+			}
+
+			10%{
+				background: orange;		
+			}
+
+			20%{
+				left: 400px;
+				top: 400px;
+			}
+			100%{
+				border:10px solid #f00;
+			}
+
+		}
+</style>
+</head>
+<body>
+
+	<div></div>
+	
+</body>
+</html>
