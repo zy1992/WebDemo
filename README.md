@@ -7,7 +7,7 @@
 - 项目演示(DEMO)地址：http://www.huanghanlian.com/widget/
 
 ### 版权
-本套组件由 [huanghanlian.com](http://www.huanghanlian.com/) 原创，请尊重原创，保留脚本头部版权。
+本套组件由，请尊重原创，保留脚本头部版权。
 
 
 ---
